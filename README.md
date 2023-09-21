@@ -1,9 +1,9 @@
 # My First Coding Project
 
 ## Table of Contents
-* [Who Am I?](#who-am-i?)
-* [Why Refactor This Website?](#why-refactor-this-website?)
-* [What Changed?](#what-changed?)
+* [Who Am I?](#who-am-i)
+* [Why Refactor This Website?](#why-refactor-this-website)
+* [What Changed?](#what-changed)
 * [Impact](#impact)
 * [Resources Used](#resources-used)
 * [Credits](#credits)
