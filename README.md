@@ -21,7 +21,7 @@ Whilst my coding knowledge is limited, it is also the reason I am writing this R
 
 To know an answer you must first know the question, and its not as easy as 42. 
 
-**Why edit the code of a perfectly working website**
+**Why edit the code of a perfectly working website?**
 
 There are many reasons to edit code and whether it be for the sake of knowledge, experimentation or obligation they are all valid reasons, as well as all reasons I took on this project.
 
@@ -60,5 +60,5 @@ Finally, my portfolio must start somewhere, and this is a comfortable start to m
 ## Contact Info
 
 **Contact me here**
-* Email: jack.lcmore@gmail.com
-* Phone No.: (808)640-4366
+* [Email] (jack.lcmore@gmail.com)
+* [Phone#] ((808)640-4366)
