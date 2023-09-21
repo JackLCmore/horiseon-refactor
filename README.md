@@ -36,12 +36,50 @@ That's Easy! Not much at all has changed in all honesty, but that's the beauty (
 To summerize what I have done to these files is simple: I took the snippet of code I wanted to edit, explored it from the top down and modified redundant or non-accesible* elements
 
 Examples of my changes:
+
 ```html
+ <header class="header">
+        <h1 title="Horiseon">Hori<span class="seo">seo</span>n</h1>
+        <section class="header-list">
+            <ul>
+                <li><a href="#search-engine-optimization" alt="Search Engine Optimization">Search Engine Optimization</a></li>
+                <li><a href="#online-reputation-management" alt="Online Reputation Marketing">Online Reputation Management</a></li>
+                <li><a href="#social-media-marketing" alt="Social Media Marketing">Social Media Marketing</a></li>
+            </ul>
+        </section>
+    </header>
 ```
+Here I added title and alt attributes to their respective sections as to increase the sites accessibility.
+
 ```html
+<section class="benefits">
+        <article class="benefit-lead">
+            <h3 class="h3">Lead Generation</h3>
+            <img class="benefits-img-dimensions" src="./assets/images/lead-generation.png" alt="Work Funneling into Money">
+            <p>Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.</p>
+        </article>
+        <article class="benefit-brand">
+            <h3 class="h3">Brand Awareness</h3>
+            <img class="benefits-img-dimensions" src="./assets/images/brand-awareness.png" alt="Lightbulb Sending Signal">
+            <p>Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.</p>
+        </article>
+        <article class="benefit-cost">
+            <h3 class="h3">Cost Management</h3>
+            <img class="benefits-img-dimensions" src="./assets/images/cost-management.png" alt="Gearcog and Coins">
+            <p>As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.</p>
+        </article>
+    </section>
 ```
+Here I added semantic elements to replace previous div elements as to increase the sites accessibility as well as added class elements to further consolidate and organize code structure.
+
 ```css
+.benefit-lead, .benefit-brand, .benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
 ```
+Here I consolidated the dimension information for three seperate classes into one snippet of code.
+
 ## Impact
 
 What is the impact of this project? 
@@ -54,6 +92,9 @@ Seriously, fixing things such as organization or content accesibility is extreme
 Finally, my portfolio must start somewhere, and this is a comfortable start to my future coding career!
 
 ## Resources Used
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Git](https://git-scm.com/)
 
 ## Credits
 
