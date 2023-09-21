@@ -106,4 +106,4 @@ Finally, my portfolio must start somewhere, and this is a comfortable start to m
 **Contact me here**
 * [Email] (jack.lcmore@gmail.com)
 * [Phone#] ((808)640-4366)
-* [GitHub] ()
+* [GitHub] (https://github.com/JackLCmore)
