@@ -11,7 +11,7 @@
 
 ## Who Am I?
 
-[Visit the Deployed Site]()
+[Visit the Deployed Site](https://jacklcmore.github.io/horiseon-refactor/)
 
 The first thing to address in my first README.md is who I am. Hello! My name is Jack Lunchick-Seymour, I am a novice coder and current coding student with the UC Berkeley Extension, I am 24 years old and I enjoy spending time with my friends, playing video games and Magic The Gathering! 
 
