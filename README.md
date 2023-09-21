@@ -97,6 +97,9 @@ Finally, my portfolio must start somewhere, and this is a comfortable start to m
 * [Git](https://git-scm.com/)
 
 ## Credits
+* You! Thanks for reading!
+* Jerome Chenette! Thank you for teaching good and stuff!
+* Me! I'm the greatest!
 
 ## Contact Info
 
